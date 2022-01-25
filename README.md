@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @zenzen0909bg
+- 👀 I’m interested in learning c#, c++, java, angular 
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on learning and making an app
+- 📫 How to reach me e-mail:belghaouiaamal@gmail.com
+- if you're tunisian don't hesitate to contact me
+- i'm motivated to build my skills by myself and share it with other people
