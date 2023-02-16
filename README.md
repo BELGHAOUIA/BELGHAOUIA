@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zenzen0909bg
-- 👀 I’m interested in learning c#, c++, java, angular 
+- 👋 Hi, I’m @BELGHAOUIA
+- 👀 I’m interested in learning java,spring boot, javaScript, angular
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on learning and making an app
 - 📫 How to reach me e-mail:belghaouiaamal@gmail.com
