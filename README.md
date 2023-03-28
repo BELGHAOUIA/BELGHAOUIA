@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amal Belghaouia</h1>
+<h1 align="center">Hey there 👋, my name's Amal Belghaouia</h1>
 <h3 align="center">An extraordinary full stack developer from Tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belghaouia" alt="belghaouia" /></a> </p>
