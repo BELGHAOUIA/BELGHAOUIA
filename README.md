@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Iset LabXpertise**
 
-- 🌱 I’m currently learning **Spring Boot** and **Vue Js**
+- 🌱 I’m currently trying to be a pro at **Spring Boot**, **Spring Security** and **Vue Js**
 
 - 📫 How to reach me **belghaouiaamal@gmail.com**
 
