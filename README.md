@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently trying to be a pro at **Spring Boot**, **Spring Security** and **Vue Js**
 
+- 🌱 started taking an interest in **AI** specifically **Generative AI** and **Python**
+
 - 📫 How to reach me **belghaouiaamal@gmail.com**
 
 - ⚡ Fun fact **I like dinosaurs and potatoes.**
