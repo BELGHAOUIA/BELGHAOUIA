@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/belghaouia-amal-85193422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belghaouia amal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zenzen0909bg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="belghaouia amal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@belghaouiaamal" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="belghaouia amal" height="30" width="40" /></a>
+<a href="https://www.medium.com/@belghaouiaamal" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="belghaouia amal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
