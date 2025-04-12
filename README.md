@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belghaouia" alt="belghaouia" /></a> </p>
 
-- 🔭 I’m currently working on my **End of Studies Internship Project**
+- 🔭 I’m currently pursuing an **Engineering Degree**
 
 - 🌱 I’m currently trying to be a pro at **Spring Boot**, **Spring Security** and **Vue Js**
 
